@@ -1,2 +1,2 @@
-# Connect_4
+# MyReactApp
 Created with CodeSandbox

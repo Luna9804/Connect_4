@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Bluebox{
+  height:110px;
+  width:105px;
+  background-color: blue;
+}
+.Circle{
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50%;
+}
