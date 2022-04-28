@@ -4,7 +4,7 @@ We want to introduce the idea of player turn. The app should tell the User whose
 The player turn will also correspond to chips. We want to color the slot to reflect the player turn: when it is Red's turn, then the slot should be Red.
 
 ## TODOs
- - [ ] The game should should start by saying that it is Red's turn
+ - [x] The game should should start by saying that it is Red's turn
  - [ ] Inside of our slot, we should show a Red chip.
  - [ ] When the user clicks on the slot, the player turn should change
    - [ ] The game should now say it is Yellow's turn
