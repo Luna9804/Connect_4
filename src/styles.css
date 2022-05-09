@@ -2,20 +2,23 @@
   font-family: sans-serif;
   text-align: center;
 }
-.BlueBox{
-  height:110px;
-  width:105px;
+.Column {
+  display: inline-block;
+}
+.BlueBox {
+  height: 110px;
+  width: 105px;
   background-color: blue;
 }
-.Circle{
+.Circle {
   height: 100px;
   width: 100px;
   background-color: white;
   border-radius: 50%;
 }
-.red{
+.red {
   background-color: red;
 }
-.yellow{
+.yellow {
   background-color: yellow;
 }
