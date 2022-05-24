@@ -4,6 +4,7 @@
 }
 .Column {
   display: inline-block;
+  background-color: blue;
 }
 .BlueBox {
   height: 110px;
