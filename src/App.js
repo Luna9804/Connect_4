@@ -13,7 +13,7 @@ export default function App() {
     }
   }
 
-  function addToken() {}
+  function addToken(props) {}
 
   return (
     <div className="App">
